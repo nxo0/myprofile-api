@@ -16,6 +16,7 @@ def all():
         {"name": "Ninomiya Kan"},
         {"name_ja": "二宮貫"},
         {"nickname": "にくそ"},
+        {"characteristic": "あほ"},
         {"age": 15},
         {"birthday_year": 2005},
         {"birthday_month": 10},
